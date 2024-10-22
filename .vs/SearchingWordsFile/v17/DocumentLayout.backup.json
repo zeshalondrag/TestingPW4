@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5BDE6A-20D9-462F-B1B4-B87174ECD6BC}|SearchingWordsFile.Tests\\SearchingWordsFile.Tests.csproj|c:\\users\\yaney\\source\\repos\\searchingwordsfile\\searchingwordsfile.tests\\filemanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5BDE6A-20D9-462F-B1B4-B87174ECD6BC}|SearchingWordsFile.Tests\\SearchingWordsFile.Tests.csproj|solutionrelative:searchingwordsfile.tests\\filemanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E834466-A66D-4C69-9F28-C225BA6BBF83}|SearchingWordsFile\\SearchingWordsFile.csproj|c:\\users\\yaney\\source\\repos\\searchingwordsfile\\searchingwordsfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E834466-A66D-4C69-9F28-C225BA6BBF83}|SearchingWordsFile\\SearchingWordsFile.csproj|solutionrelative:searchingwordsfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E834466-A66D-4C69-9F28-C225BA6BBF83}|SearchingWordsFile\\SearchingWordsFile.csproj|c:\\users\\yaney\\source\\repos\\searchingwordsfile\\searchingwordsfile\\testdataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E834466-A66D-4C69-9F28-C225BA6BBF83}|SearchingWordsFile\\SearchingWordsFile.csproj|solutionrelative:searchingwordsfile\\testdataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E834466-A66D-4C69-9F28-C225BA6BBF83}|SearchingWordsFile\\SearchingWordsFile.csproj|c:\\users\\yaney\\source\\repos\\searchingwordsfile\\searchingwordsfile\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E834466-A66D-4C69-9F28-C225BA6BBF83}|SearchingWordsFile\\SearchingWordsFile.csproj|solutionrelative:searchingwordsfile\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E834466-A66D-4C69-9F28-C225BA6BBF83}|SearchingWordsFile\\SearchingWordsFile.csproj|c:\\users\\yaney\\source\\repos\\searchingwordsfile\\searchingwordsfile\\filedataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E834466-A66D-4C69-9F28-C225BA6BBF83}|SearchingWordsFile\\SearchingWordsFile.csproj|solutionrelative:searchingwordsfile\\filedataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E834466-A66D-4C69-9F28-C225BA6BBF83}|SearchingWordsFile\\SearchingWordsFile.csproj|c:\\users\\yaney\\source\\repos\\searchingwordsfile\\searchingwordsfile\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E834466-A66D-4C69-9F28-C225BA6BBF83}|SearchingWordsFile\\SearchingWordsFile.csproj|solutionrelative:searchingwordsfile\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile\\App.config",
+              "RelativeDocumentMoniker": "SearchingWordsFile\\App.config",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile\\App.config",
+              "RelativeToolTip": "SearchingWordsFile\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-22T08:15:01.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile\\Program.cs",
+              "RelativeDocumentMoniker": "SearchingWordsFile\\Program.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile\\Program.cs",
+              "RelativeToolTip": "SearchingWordsFile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:21:39.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestDataObject.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile\\TestDataObject.cs",
+              "RelativeDocumentMoniker": "SearchingWordsFile\\TestDataObject.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile\\TestDataObject.cs",
+              "RelativeToolTip": "SearchingWordsFile\\TestDataObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:31:46.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile.Tests\\FileManagerTests.cs",
+              "RelativeDocumentMoniker": "SearchingWordsFile.Tests\\FileManagerTests.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile.Tests\\FileManagerTests.cs",
+              "RelativeToolTip": "SearchingWordsFile.Tests\\FileManagerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:23:42.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileDataObject.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile\\FileDataObject.cs",
+              "RelativeDocumentMoniker": "SearchingWordsFile\\FileDataObject.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile\\FileDataObject.cs",
+              "RelativeToolTip": "SearchingWordsFile\\FileDataObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:22:38.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile\\FileManager.cs",
+              "RelativeDocumentMoniker": "SearchingWordsFile\\FileManager.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SearchingWordsFile\\SearchingWordsFile\\FileManager.cs",
+              "RelativeToolTip": "SearchingWordsFile\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:22:16.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

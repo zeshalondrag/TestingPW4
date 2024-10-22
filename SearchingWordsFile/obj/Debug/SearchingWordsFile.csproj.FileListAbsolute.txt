@@ -1,0 +1,7 @@
+C:\Users\yaney\source\repos\SearchingWordsFile\SearchingWordsFile\bin\Debug\SearchingWordsFile.exe.config
+C:\Users\yaney\source\repos\SearchingWordsFile\SearchingWordsFile\bin\Debug\SearchingWordsFile.exe
+C:\Users\yaney\source\repos\SearchingWordsFile\SearchingWordsFile\bin\Debug\SearchingWordsFile.pdb
+C:\Users\yaney\source\repos\SearchingWordsFile\SearchingWordsFile\obj\Debug\SearchingWordsFile.csproj.AssemblyReference.cache
+C:\Users\yaney\source\repos\SearchingWordsFile\SearchingWordsFile\obj\Debug\SearchingWordsFile.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\repos\SearchingWordsFile\SearchingWordsFile\obj\Debug\SearchingWordsFile.exe
+C:\Users\yaney\source\repos\SearchingWordsFile\SearchingWordsFile\obj\Debug\SearchingWordsFile.pdb
